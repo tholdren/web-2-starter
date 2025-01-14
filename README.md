@@ -11,5 +11,3 @@ Boilerplate for Web 2
 
 ## Citations
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
-
-* []()
